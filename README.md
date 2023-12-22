@@ -1,5 +1,7 @@
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470gmq6p00qf36ikq8c1x4f9ktu8ov2m684pvermjv&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50%" height="50%"/> 
+
 <h1 align="center">Hi 👋, I'm Sudham Hebbar</h1>
-<h3 align="center">A java developer from Brown University</h3>
+<h3 align="center">A java developer from Brown University</h3> 
 
 - 🔭 I’m currently working on [Reddit2Youtube](https://github.com/sudhamhebbarbrown/RedditToYoutube)
 
