@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sudham Hebbar</h1>
 <h3 align="center">A java developer from Brown University</h3> 
 
-- 🔭 I’m currently working on [Reddit2Youtube](https://github.com/sudhamhebbarbrown/RedditToYoutube)
+- 🔭 I’m currently working on [User Document Generation](https://github.com/dbhatia00/documentation-generation) and [Distributed Search Engine](https://github.com/GavinJin0501/Distributed-Search-Engine)
 
 - 🌱 I’m currently learning **Spring Framework and NodeJS**
 
